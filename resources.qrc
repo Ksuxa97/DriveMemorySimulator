@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>down.png</file>
+        <file>flash.png</file>
+        <file>floppy.png</file>
+        <file>hdd.png</file>
+        <file>optical.png</file>
+        <file>return.png</file>
+        <file>ssd.png</file>
+        <file>up.png</file>
+    </qresource>
+</RCC>
